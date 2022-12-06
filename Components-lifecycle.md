@@ -1,3 +1,5 @@
+# Components lifecycle Questions
+
 - Could we send props from child to parent?
 - How can we send props from parents to child?
 - How can we edit some data(props) we catch in the child component from the parent component and show the modification we made in the parent?
