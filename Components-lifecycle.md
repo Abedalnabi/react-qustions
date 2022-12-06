@@ -13,10 +13,10 @@
   
 - Mention the types of components in react?
 - Mention the react functional component lifecycle phases and explain each one
-* which one is responsible of insert elements in Dom and which one removes the component from the Dom
-* when updating life cycle work?
-* How can we write code that runs after the component is mountd in react functional component?
-* When does the component re-render in React?
+  - which one is responsible of insert elements in Dom and which one removes the component from the Dom
+  - when updating life cycle work?
+  - How can we write code that runs after the component is mountd in react functional component?
+  - When does the component re-render in React?
 
 - Which hook do we use to run code after the component mounted ?
 - how can we run code when the component is unmounted in functional component?
