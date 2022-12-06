@@ -2,14 +2,14 @@
 - how can we send props from parents to child?
 - how can we edit some data(props) we catch in the child component from the parent component and show the modification we made in the parent?
 - what type of props are in React? 
-  -array 
-  -object 
-  -string 
-  -Number
+  - array 
+  - object 
+  - string 
+  - Number
 
 - Chose the correct answer => if we need to send data from child to parent we should do?
-  -send function with parameters to child component 
-  -send props from child to parent directly
+  - send function with parameters to child component 
+  - send props from child to parent directly
   
 - Mention the types of components in react?
 - Mention the react functional component lifecycle phases and explain each one
