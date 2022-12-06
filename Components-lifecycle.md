@@ -41,7 +41,7 @@
 - Why do we have an infinite loop when trying to change the state inside useEffic without detrimines dependence array?
 - What's the difference between Real DOM and Virtual DOM?
 - Which will run before, return JSX codes or UseEffect codes?
-- Why do we return <></> or <React.Fragment><React.Fragment/> insted of return <div></div> when we return JSX code in react ?
+- Why do we return <></> or <React.Fragment><React.Fragment/> insted of return div tag when we return JSX code in react ?
 - Colud we define useState in UseEffect ? if now why do we cant?
 - We have two additional react hook functions useCallback and useMemo
 - What are the differences between useCallback and useMemo?
