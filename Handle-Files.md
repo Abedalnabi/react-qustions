@@ -1,4 +1,4 @@
-# Handle-Files Qustions
+# Handle-Files Questions
 
 - how can we catch the file from response? 1-from body 2-from header 3-from formDate
 - from where do we send the files? 1-from the client side 2-from serve side
