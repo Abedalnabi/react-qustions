@@ -1,7 +1,7 @@
-- could we send props from child to parent?
-- how can we send props from parents to child?
-- how can we edit some data(props) we catch in the child component from the parent component and show the modification we made in the parent?
-- what type of props are in React? 
+- Could we send props from child to parent?
+- How can we send props from parents to child?
+- How can we edit some data(props) we catch in the child component from the parent component and show the modification we made in the parent?
+- What type of props are in React? 
   - array 
   - object 
   - string 
@@ -19,13 +19,13 @@
   - When does the component re-render in React?
 
 - Which hook do we use to run code after the component mounted ?
-- how can we run code when the component is unmounted in functional component?
+- How can we run code when the component is unmounted in functional component?
 - What is the empty array meaning in useEffect hook?
-- which line of code means that component will re-render after any state changes?
+- Which line of code means that component will re-render after any state changes?
   - useEffect(() => { console.log('hello world') }, []);
   - useEffect(() => { console.log('hello world') });
   - useEffect(() => { console.log('hello world') }, [state]);
-- which line of code means that the component will re-render once?
+- Which line of code means that the component will re-render once?
   - useEffect(() => { console.log('hello world') }, []);
   - useEffect(() => { console.log('hello world') });
   - useEffect(() => { console.log('hello world') }, [state]);
@@ -34,17 +34,17 @@
   - unmounting, mounting -updating
   - mounting, updating -unmounting
   - updating, mounting -unmounting
-- in which phases will JSX element will render?
+- In which phases will JSX element will render?
 - Why do we use key attribute for each element in react when we use for loop
-- if the parent mounting or re-render , will child component mounting also? 
-- if the state changes in the child component, will is parent component be re-mounting also?
+- If the parent mounting or re-render , will child component mounting also? 
+- If the state changes in the child component, will is parent component be re-mounting also?
 - Why do we have an infinite loop when trying to change the state inside useEffic without detrimines dependence array?
 - What's the difference between Real DOM and Virtual DOM?
 - Which will run before, return JSX codes or UseEffect codes?
 - Why do we return <></> or <React.Fragment><React.Fragment/> insted of return <div></div> when we return JSX code in react ?
 - Colud we define useState in UseEffect ? if now why do we cant?
-- we have two additional react hook functions useCallback and useMemo
-- what are the differences between useCallback and useMemo?
+- We have two additional react hook functions useCallback and useMemo
+- What are the differences between useCallback and useMemo?
 * Which one can we use to memoize a function that will not automatically run on every render?
-* what dependence array means in useCallback function ? 
+* What dependence array means in useCallback function ? 
 * How can we stop the child component re-render when his parent re-renders?
