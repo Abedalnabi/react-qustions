@@ -1,3 +1,5 @@
+# State management Questions
+
 - Why do we use a global state instead of props?
 - How can we get and update data anywhere in our app without using props?
 - What is the react hook we use to manage the global state in one place?
