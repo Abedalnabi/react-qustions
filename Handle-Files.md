@@ -44,7 +44,7 @@
 	- explain what each one means
 	- what is the difference between filename and originalname and fieldname?
 	- from each one we can Determine the folder to which the file has been saved in?
-	- 
+
 - what fileFilter used for in multer?
 - is fileFilter work before or after storage files?
 - who can we determine if we have a valid file to save?
