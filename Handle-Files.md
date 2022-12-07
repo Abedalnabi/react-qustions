@@ -17,7 +17,7 @@
 - in the header request what we should send when we send files?
 - why do we send some data with header request ?
 - why do we send application/json on the header when we send the requset to server?
-- look at the below code and answer the question
+
 ```js
 	const storage = multer.diskStorage({
 	  destination: function (req, file, cb) {
@@ -35,7 +35,7 @@
 	}
 ```
 - look at the above code and answer the questions
-        -why do we use single instead of array?
+        - why do we use single instead of array?
 	- why do we write upload.single('file') after '/api' and what does this mean?
 	- did we send a response if we have an error in multer storge progress?
 	- How can we access the file from req ? by calling req.files?
