@@ -35,7 +35,7 @@
 	}
 ```
 - look at the above code and answer the questions
-        - why do we use single instead of array?
+	- why do we use single instead of array?
 	- why do we write upload.single('file') after '/api' and what does this mean?
 	- did we send a response if we have an error in multer storge progress?
 	- How can we access the file from req ? by calling req.files?
